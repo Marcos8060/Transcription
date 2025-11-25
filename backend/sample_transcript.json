@@ -1,0 +1,84 @@
+{
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Hello, thank you for joining us today for this interview. My name is Sarah Johnson, and I'm the HR manager here at TechCorp."
+    },
+    {
+      "start": 2.5,
+      "end": 4.8,
+      "text": "Thank you for having me. I'm excited to be here and learn more about the opportunity."
+    },
+    {
+      "start": 4.8,
+      "end": 8.2,
+      "text": "Great! Let's start with you telling us a bit about your background and experience in software development."
+    },
+    {
+      "start": 8.2,
+      "end": 15.5,
+      "text": "I have about five years of experience in full-stack development, primarily working with React, Node.js, and Python. I've led several projects from conception to deployment, including a customer management system that improved efficiency by 40%."
+    },
+    {
+      "start": 15.5,
+      "end": 18.0,
+      "text": "That's impressive! Can you walk us through a challenging problem you've solved recently?"
+    },
+    {
+      "start": 18.0,
+      "end": 25.3,
+      "text": "Absolutely. Last quarter, we had a critical performance issue where our API response times were averaging 3 seconds. I implemented caching strategies and database query optimization, which brought it down to under 500ms."
+    },
+    {
+      "start": 25.3,
+      "end": 28.7,
+      "text": "How do you handle working in a team environment?"
+    },
+    {
+      "start": 28.7,
+      "end": 35.2,
+      "text": "I believe in open communication and collaboration. I regularly participate in code reviews, share knowledge through documentation, and mentor junior developers. I also enjoy pair programming sessions."
+    },
+    {
+      "start": 35.2,
+      "end": 38.9,
+      "text": "What are your salary expectations for this position?"
+    },
+    {
+      "start": 38.9,
+      "end": 42.1,
+      "text": "Based on my experience and the market rates, I'm looking for a range between $85,000 to $95,000 annually, but I'm open to discussion based on the total compensation package."
+    },
+    {
+      "start": 42.1,
+      "end": 45.6,
+      "text": "Do you have any questions for us about the role or company?"
+    },
+    {
+      "start": 45.6,
+      "end": 52.3,
+      "text": "Yes, I'd love to learn more about the team structure and what the day-to-day responsibilities would look like. Also, what opportunities are there for professional development and growth?"
+    },
+    {
+      "start": 52.3,
+      "end": 58.7,
+      "text": "Excellent questions. We have a flat structure with cross-functional teams. You'd be working closely with product managers and designers. We also offer a generous learning budget and conference attendance."
+    },
+    {
+      "start": 58.7,
+      "end": 62.4,
+      "text": "That sounds great. When can I expect to hear back about next steps?"
+    },
+    {
+      "start": 62.4,
+      "end": 65.8,
+      "text": "We'll be making decisions by the end of this week, and you should hear from us by Friday. Thank you again for your time today."
+    },
+    {
+      "start": 65.8,
+      "end": 67.2,
+      "text": "Thank you, I appreciate the opportunity."
+    }
+  ]
+}

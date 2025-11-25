@@ -1,0 +1,10 @@
+fastapi[standard]
+faster-whisper
+sqlalchemy
+asyncpg
+python-dotenv
+uvicorn[standard]
+python-multipart
+aiofiles
+requests
+cloudinary
