@@ -1,0 +1,79 @@
+# ========================================
+# GLOBAL IGNORE RULES
+# ========================================
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+
+# ========================================
+# FRONTEND (Next.js)
+# ========================================
+
+# Dependencies
+frontend/node_modules/
+
+# Build output
+frontend/.next/
+frontend/out/
+frontend/dist/
+frontend/.turbo/
+
+# Cache
+frontend/.vercel/
+frontend/.cache/
+
+# Testing
+frontend/coverage/
+frontend/.nyc_output/
+
+# Misc
+frontend/.eslintcache
+
+# ========================================
+# BACKEND (FastAPI)
+# ========================================
+
+# Python dependencies
+backend/__pycache__/
+backend/*.py[cod]
+backend/*.egg-info/
+backend/.pytest_cache/
+backend/.mypy_cache/
+backend/.ruff_cache/
+backend/.tox/
+
+# Virtual environment
+backend/venv/
+backend/env/
+
+# Database files (if any)
+backend/*.db
+backend/*.sqlite3
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
